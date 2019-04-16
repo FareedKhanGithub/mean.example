@@ -1,6 +1,6 @@
 #About
   
-    An Express based website and REST API with user authentication.With this website you are able to login, 
+    An Express based website and REST API with user authentication. With this website you are able to login, 
     once logged in your able to see the other users and are able to delete users or add new users to the database.
 
 
